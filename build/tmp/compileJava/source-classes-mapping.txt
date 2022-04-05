@@ -1,0 +1,18 @@
+jbr/spring/boot/model/Login.java
+ jbr.spring.boot.model.Login
+jbr/spring/boot/service/UserServiceImpl.java
+ jbr.spring.boot.service.UserServiceImpl
+jbr/spring/boot/UserRegistrationLoginApplication.java
+ jbr.spring.boot.UserRegistrationLoginApplication
+jbr/spring/boot/model/User.java
+ jbr.spring.boot.model.User
+jbr/spring/boot/controller/LoginController.java
+ jbr.spring.boot.controller.LoginController
+jbr/spring/boot/controller/RegistrationController.java
+ jbr.spring.boot.controller.RegistrationController
+jbr/spring/boot/dao/UserRepository.java
+ jbr.spring.boot.dao.UserRepository
+jbr/spring/boot/controller/HomeController.java
+ jbr.spring.boot.controller.HomeController
+jbr/spring/boot/service/UserService.java
+ jbr.spring.boot.service.UserService
